@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.testA
+{
+    color:red;
+}
+
+.testB
+{
+    color:blue;
+}
+
+#app5 ul li
+{
+    cursor: pointer;
+}
+
+#app5 ul li:hover
+{
+    color:red;
+}
